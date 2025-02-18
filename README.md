@@ -1,1 +1,0 @@
-# kest2-lokaverkefni
