@@ -6,4 +6,5 @@
 - then i installed visual studio code and the python extension
 - ![image](https://github.com/user-attachments/assets/39c28bd3-863e-4898-be2b-d6c472ab14d3)
 - then i installed github and logged in
-- 
+- ![image](https://github.com/user-attachments/assets/65ab6cba-a89f-4368-8ec0-d2c4d432a369)
+
