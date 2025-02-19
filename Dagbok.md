@@ -11,5 +11,8 @@
 
 ## 19.2.25
 - i created the groups in computer management
-- 
+- i added the csv file
+- i created the powershell script and it ran and it worked
+- ![Screenshot 2025-02-19 142038](https://github.com/user-attachments/assets/5080795c-2071-433a-831e-d1c7b72f7096)
+
 
