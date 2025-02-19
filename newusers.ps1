@@ -9,6 +9,7 @@ ForEach($notandi in $gogn) {
     New-LocalUser -fullname "$name" -Name $username -Password $pass
     Add-LocalGroupMember -Group $group -member $username
     Add-LocalGroupMember -Group "Allir" -Member $username
+    Add-LocalGroupMember -Group "Users" -Member $username
     }
 
 
