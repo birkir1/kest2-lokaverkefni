@@ -16,3 +16,22 @@
 - ![Screenshot 2025-02-19 142038](https://github.com/user-attachments/assets/5080795c-2071-433a-831e-d1c7b72f7096)
 
 
+  ## 20.2.25
+  - i crated folders for each group
+  - ![image](https://github.com/user-attachments/assets/1eab1785-87a7-4587-8a59-d6f9eff0e2bb)
+  - -then i gave every file permissions
+  - ![image](https://github.com/user-attachments/assets/efe61816-d7fe-45ec-9802-69d658721632)
+  - ![image](https://github.com/user-attachments/assets/2a157003-2e7b-492c-8d00-574bf7b73864)
+  - ![image](https://github.com/user-attachments/assets/444964b9-9478-4f8a-9676-6014c00b2669)
+  - ![image](https://github.com/user-attachments/assets/23262255-f727-45d5-8551-2884bf181b59)
+  - ![image](https://github.com/user-attachments/assets/cfebdb0d-b655-4e28-8f70-f91969799f96)
+  - ![image](https://github.com/user-attachments/assets/2accaa85-0c2e-445c-89e8-ff766c269940)
+  - ![image](https://github.com/user-attachments/assets/01cc8bf1-426e-4e40-98b1-a1991c4664bf)
+  - ![image](https://github.com/user-attachments/assets/332220b5-66be-48e7-a747-20ebe663f51b)
+  - 
+
+
+
+
+
+
