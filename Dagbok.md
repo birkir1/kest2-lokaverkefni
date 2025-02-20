@@ -30,6 +30,11 @@
   - ![image](https://github.com/user-attachments/assets/332220b5-66be-48e7-a747-20ebe663f51b)
   - and then i created a txt file in every folder
   - ![image](https://github.com/user-attachments/assets/e025cb9f-aa9a-4eac-9b7a-44342d1ec629)
+ 
+
+  - next i changed the local security policy so that passwords must be 8 characters and cant be to simple
+  - ![image](https://github.com/user-attachments/assets/e1d9f10d-69cb-4884-836b-5b4fa9fc92e7)
+
 
 
 
