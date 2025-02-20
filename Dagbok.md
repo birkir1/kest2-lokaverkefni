@@ -28,7 +28,9 @@
   - ![image](https://github.com/user-attachments/assets/2accaa85-0c2e-445c-89e8-ff766c269940)
   - ![image](https://github.com/user-attachments/assets/01cc8bf1-426e-4e40-98b1-a1991c4664bf)
   - ![image](https://github.com/user-attachments/assets/332220b5-66be-48e7-a747-20ebe663f51b)
-  - 
+  - and then i created a txt file in every folder
+  - ![image](https://github.com/user-attachments/assets/e025cb9f-aa9a-4eac-9b7a-44342d1ec629)
+
 
 
 
