@@ -35,6 +35,10 @@
   - next i changed the local security policy so that passwords must be 8 characters and cant be to simple
   - ![image](https://github.com/user-attachments/assets/e1d9f10d-69cb-4884-836b-5b4fa9fc92e7)
 
+ - then i enembled all icmpv4 and icmpv6 in windows defender firewall
+ - ![image](https://github.com/user-attachments/assets/62833627-8352-43a3-ab63-9fb467d7a603)
+
+
 
 
 
